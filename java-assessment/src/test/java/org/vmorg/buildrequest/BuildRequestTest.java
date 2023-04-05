@@ -16,6 +16,7 @@ public class BuildRequestTest {
         when(mockCreateMachine.createNewMachine(mockMachine)).thenReturn("host20230328005");
         VirtualMachineRequestor mockMachineRequrstor  = mock(VirtualMachineRequestor.class);
         
+
     }
 
 }
